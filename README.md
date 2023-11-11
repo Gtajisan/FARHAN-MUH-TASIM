@@ -1,4 +1,4 @@
-# Termux-YTD
+# FARHAN-MUH-TASIM
 #### Termux-YouTube-Downloader
 This is The latest Script For Downloading Youtube Videos with your Termux. Download any Youtube Video in 2 Clicks.
 <p align="center">
@@ -6,31 +6,32 @@ This is The latest Script For Downloading Youtube Videos with your Termux. Downl
 </p>
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/khansaad1275/Termux-YTD?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/khansaad1275/Termux-YTD?color=violet&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/khansaad1275/Termux-YTD?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/khansaad1275/Termux-YTD?style=for-the-badge">
-</p>
-
 ### Me:
 Author👨‍💻: https://github.com/Gtajisan <br>
 
 Website🌎: www.Learntermux.tech <br>
 
-Instagram : https://www.instagram.com/skhan_official/ <br>
+Instagram : https://www.instagram.com/FARHAN-MUH-TASIM/ <br>
 <br>
 <br>
 
-### Installation & Usage:
-Read This post for installation and usage, I have explained everything using screenshots.
+### Installation one line:
 
-https://www.learntermux.tech/2020/04/Termux-Youtube-Video-Downloader.html
+```bash
+apt update && apt upgrade && cd && pkg install git -y && git clone https://github.com/Gtajisan/FARHAN-MUH-TASIM && cd FARHAN-MUH-TASIM && bash install.sh
 
+**Installing requirements**
+ ```
+ apt update && apt upgrade 
+ ```
 <br>
 <br>
 
+#### Running
+ ```
+ cd FARHAN-MUH-TASIM && bash install.sh
+
+ ```
 ### Features:
 - See The Downloading Process.
 - Download any Video in Just 2 Click.

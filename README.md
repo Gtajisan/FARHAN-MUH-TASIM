@@ -45,7 +45,7 @@ apt update && apt upgrade && cd && pkg install git -y && git clone https://githu
  ```
 **Getting FARHAN-MUH-TASUM**
  ```
- git clone https://github.com/Gtajisan/FARHAN-MUH-TASIM/blob/main/README.md
+ git clone https://github.com/Gtajisan/FARHAN-MUH-TASIM
  ```
 ### Features:
 - See The Downloading Process.

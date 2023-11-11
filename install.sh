@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Project name : FARHAN MUH TASIM
-# Coded by: FARHAN MUH TASIM (You dont become a coder by just changing the credits)
-# Github: https://github.com/FARHAN MUH TASIM/FARHAN MUH TASIM
+# Project name : FARHAN-MUH-TASIM
+# Coded by: FARHAN-MUH-TASIM (You dont become a coder by just changing the credits)
+# Github: https://github.com/FARHAN-MUH-TASIM/FARHAN-MUH-TASIM
 # Date : 11/11/2023
 
 TERMUX_HOME="/data/data/com.termux/files/home"
@@ -47,7 +47,7 @@ if [ ! -d "${TERMUX_HOME}/.config/youtube-dl" ]; then
 fi
 
 # Install the url opener.
-printf '\e[0;36mInstalling FARHAN MUH TASIM\e[0m\n'
+printf '\e[0;36mInstalling FARHAN-MUH-TASIM\e[0m\n'
 mkdir -p "${TERMUX_HOME}/bin"
 mv termux-url-opener "${TERMUX_HOME}/bin"
 chmod +x "${TERMUX_HOME}/bin/termux-url-opener"

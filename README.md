@@ -23,7 +23,11 @@ Instagram : https://www.instagram.com/FARHAN-MUH-TASIM/ <br>
 <br>
 <br>
 
-
+### How to update FARHAN-MUH-TASIM
+To check for updates and update, run the following command:
+```
+(cd FARHAN-MUH-TASIM && git pull)
+```
 
 ### Installation one line:
 

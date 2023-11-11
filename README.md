@@ -40,7 +40,7 @@ apt update && apt upgrade && cd && pkg install git -y && git clone https://githu
 
  **Running**
  ```
- cd termux-url-opener.txt && bash install.sh
+ cd FARHAN-MUH-TASIM && bash install.sh
 
  ```
 **Getting FARHAN-MUH-TASUM**

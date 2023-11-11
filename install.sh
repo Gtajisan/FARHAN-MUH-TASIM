@@ -55,4 +55,4 @@ sleep 2
 
 printf '\n\e[0;36mInstallation Complete!\e[0m\n'
 printf '\e[0;36mJust open the video you want to download in youtube, click share, select termux, choose a quality, and the download will start\e[0m\n'
-printf '\e[0;32mFor More Awesome and Useful Tool like this Visit My website ©www.LearnTermux.tech\e[0m\n'
+printf '\e[0;32mFor More Awesome and Useful Tool like this Visit My Facebook  ©https://www.facebook.com/profile.php?id=100094924471568&mibextid=ZbWKwL\e[0m\n'

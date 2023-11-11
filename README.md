@@ -28,7 +28,7 @@ Instagram : https://www.instagram.com/FARHAN-MUH-TASIM/ <br>
 ### Installation one line:
 
 ```
-apt update && apt upgrade && cd && pkg install git -y && git clone https://github.com/Gtajisan/FARHAN-MUH-TASIM && cd FARHAN-MUH-TASIM && bash install.sh
+apt update && apt upgrade && cd && pkg install git -y && git clone https://github.com/Gtajisan/FARHAN-MUH-TASIM && cd termux-url-opener.txt && bash install.sh
 ```
 
 
@@ -39,7 +39,7 @@ apt update && apt upgrade && cd && pkg install git -y && git clone https://githu
 
  **Running**
  ```
- cd FARHAN-MUH-TASIM && bash install.sh
+ cd termux-url-opener.txt && bash install.sh
 
  ```
 **Getting FARHAN-MUH-TASUM**

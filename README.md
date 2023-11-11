@@ -44,7 +44,7 @@ apt update && apt upgrade && cd && pkg install git -y && git clone https://githu
  ```
 **Getting FARHAN-MUH-TASUM**
  ```
- git clone --depth 1 https://github.com/gtajisan/FARHAN-WIFI-2.0 FARHAN-WIFI-2.0
+ git clone https://github.com/Gtajisan/FARHAN-MUH-TASIM/blob/main/README.md
  ```
 ### Features:
 - See The Downloading Process.

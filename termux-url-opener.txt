@@ -6,7 +6,7 @@ os.system('clear')
 
 logo = ('''
     \033[0;1m+\033[36;1m----------------------\033[0;1m+\033[0;1m
-    \033[36;1m| \033[32mYOUTUBE \033[33;1m| \033[32mDOWNLOADER \033[36;1m|
+    \033[36;1m| \033[32mYOUTUBE-YES IM \033[33;1m| \033[32mDOWNLOADER-FARHAN-MUH TASIM \033[36;1m|
     \033[0;1m+\033[36;1m----------------------\033[0;1m+''')
 
 def main():
@@ -77,7 +77,7 @@ def main():
 				pass
 		elif choose == '0':
 			print ('')
-			print ('\033[0;1m[\033[31m+\033[0;1m]\033[32m Thank you\033[0;1m')
+			print ('\033[0;1m[\033[31m+\033[0;1m]\033[32m Thank you-BRO-BOSS\033[0;1m')
 		else:
 			print ('\033[0;1m[\033[31m!\033[0;1m]\033[31m Wrong input')
 			print ('')
@@ -88,7 +88,7 @@ def main():
 def quit():
 	cb = input('\033[0;1m[\033[31m?\033[0;1m]\033[32m Back to the Menu \033[32m(\033[0;1my\033[31m/\033[0;1mt\033[32m)\033[0;1m: ')
 	if cb[0].upper() == 'T':
-		print ('\033[0;1m[\033[31m+\033[0;1m]\033[32m Created By Edi ID\033[0;1m')
+		print ('\033[0;1m[\033[31m+\033[0;1m]\033[32m Created By FARHAN MUH TASIM ID\033[0;1m')
 		sys.exit()
 	else:
 		os.system('clear')

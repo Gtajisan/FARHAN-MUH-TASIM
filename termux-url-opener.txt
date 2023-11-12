@@ -18,15 +18,14 @@ logo = print("""\033[0;96m
  \033[1;37mFacebook:            FARHAN MUH TASIM
  \033[1;37mGithub  :            gtajisan X me
  \033[1;37mWhatsapp:            +880130505723*
- \033[1;31mOne line Command:
-\033[1;31cd FARHAN-MUH-TASIM && ls && python termux-url-opener.txt 
-
-
- \033[1;31mFor Help : FB-AND-TELEGRAM
+ \033[1;31mtool    : YouTube video download mp4-mp3
+ \033[1;31mFor Help: FB-AND-TELEGRAM
 
  \033[1;31mNote    :       YouTube -video-downloader-mp4-mp3
 \033[1;36m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;32m
 """)
+
+
 def main():
 	try:
 		print ('')

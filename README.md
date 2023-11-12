@@ -3,7 +3,7 @@
 This is The latest Script For Downloading Youtube Videos with your Termux. Download any Youtube Video in 2 Clicks.
 YouTube any video copy link past with download mp3-mp4 hd quality 
 <p align="center">
-  <img alt="Smiley face" src="https://i.postimg.cc/HswsRMnj/Screenshot-20231111-143614-Termux.png">
+  <img alt="Smiley face" src="https://i.postimg.cc/jj8P1s6k/Screenshot-20231113-000929-Termux.png">
 </p>
 <br>
 
